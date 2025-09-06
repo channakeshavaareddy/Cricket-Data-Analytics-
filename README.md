@@ -50,8 +50,8 @@ Employed data-driven analysis and informed decision-making to assemble the best 
   ## Final 11 Players
  ![image alt](https://github.com/channakeshavaareddy/Cricket-Data-Analytics-/blob/2775544a689553d7701ed3499f6b054bb9595672/SCREENSHOTS/Screenshot%202025-09-06%20131626.png)
 
- ## Conclusion of the Projects
-•	This project exemplifies the effective application of sophisticated data analytics methodologies to derive meaningful insights from cricket datasets, with a focus on the ICC Cricket World Cup 2022. By systematically executing data acquisition through web scraping, rigorous data cleansing and transformation leveraging Python, Pandas, and Power Query, a comprehensive and high-quality dataset was established.
-•	Utilizing Power BI’s advanced visualization and dashboarding features enabled dynamic, interactive exploration of player performances and team strategies. The data-driven selection of the Playing 11 balanced robust batting capabilities with a strategically strong bowling lineup, demonstrating the power of analytics in optimizing team composition.
-•	As part of a growing trend in worldwide sports analytics, this project underscores the transformative potential of data-driven decision-making in cricket and offers a scalable blueprint that can be adapted for broader applications across various cricket tournaments and formats globally.
+ ## Conclusion of the Project
+- 	This project exemplifies the effective application of sophisticated data analytics methodologies to derive meaningful insights from cricket datasets, with a focus on the ICC Cricket World Cup 2022. By systematically executing data acquisition through web scraping, rigorous data cleansing and transformation leveraging Python, Pandas, and Power Query, a comprehensive and high-quality dataset was established.
+- Utilizing Power BI’s advanced visualization and dashboarding features enabled dynamic, interactive exploration of player performances and team strategies. The data-driven selection of the Playing 11 balanced robust batting capabilities with a strategically strong bowling lineup, demonstrating the power of analytics in optimizing team composition.
+- As part of a growing trend in worldwide sports analytics, this project underscores the transformative potential of data-driven decision-making in cricket and offers a scalable blueprint that can be adapted for broader applications across various cricket tournaments and formats globally.
 
