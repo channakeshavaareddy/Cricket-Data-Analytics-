@@ -31,3 +31,7 @@ Employed data-driven analysis and informed decision-making to assemble the best 
 -	Anaconda Environment for Package Management
 
  # Final Outputs of the Cricket-Data-Analytics
+
+ ## openers
+ https://github.com/channakeshavaareddy/Cricket-Data-Analytics-/blob/1db912fafef8f659e04fd60e85a344c7cdb43cc8/SCREENSHOTS/Screenshot%202025-09-06%20131337.png
+
