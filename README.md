@@ -29,3 +29,5 @@ Employed data-driven analysis and informed decision-making to assemble the best 
 -	Jupyter Notebook
 -	Beautiful Soup for Web Data Extraction
 -	Anaconda Environment for Package Management
+
+ # Final Outputs of the Cricket-Data-Analytics
