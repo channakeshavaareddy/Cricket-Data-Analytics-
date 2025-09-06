@@ -23,9 +23,9 @@ Employed data-driven analysis and informed decision-making to assemble the best 
 ## Tools, Software, and Libraries Used
 - Python Programming Language
 - Pandas Library for web scraping
-•	Power BI for Data Visualization and Dashboarding
-•	Power Query Editor for Data Transformation
-•	Microsoft Excel for Data Cleaning and Preparation
-•	Jupyter Notebook
-•	Beautiful Soup for Web Data Extraction
-•	Anaconda Environment for Package Management
+- Power BI for Data Visualization and Dashboarding
+-	Power Query Editor for Data Transformation
+-	Microsoft Excel for Data Cleaning and Preparation
+-	Jupyter Notebook
+-	Beautiful Soup for Web Data Extraction
+-	Anaconda Environment for Package Management
