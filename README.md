@@ -32,6 +32,20 @@ Employed data-driven analysis and informed decision-making to assemble the best 
 
  # Final Outputs of the Cricket-Data-Analytics
 
- ## openers
+ ## Openers
  ![image alt](https://github.com/channakeshavaareddy/Cricket-Data-Analytics-/blob/1db912fafef8f659e04fd60e85a344c7cdb43cc8/SCREENSHOTS/Screenshot%202025-09-06%20131337.png)
 
+ ## Middle Order
+ ![image alt](https://github.com/channakeshavaareddy/Cricket-Data-Analytics-/blob/2775544a689553d7701ed3499f6b054bb9595672/SCREENSHOTS/Screenshot%202025-09-06%20131359.png)
+
+ ## Finishers
+ ![image alt](https://github.com/channakeshavaareddy/Cricket-Data-Analytics-/blob/2775544a689553d7701ed3499f6b054bb9595672/SCREENSHOTS/Screenshot%202025-09-06%20131416.png)
+
+ ## All rounders
+ ![image alt](https://github.com/channakeshavaareddy/Cricket-Data-Analytics-/blob/2775544a689553d7701ed3499f6b054bb9595672/SCREENSHOTS/Screenshot%202025-09-06%20131437.png)
+
+  ## Fast Bowlers
+ ![image alt](https://github.com/channakeshavaareddy/Cricket-Data-Analytics-/blob/2775544a689553d7701ed3499f6b054bb9595672/SCREENSHOTS/Screenshot%202025-09-06%20131453.png)
+
+  ## Final 11 Players
+ ![image alt](https://github.com/channakeshavaareddy/Cricket-Data-Analytics-/blob/2775544a689553d7701ed3499f6b054bb9595672/SCREENSHOTS/Screenshot%202025-09-06%20131626.png)
