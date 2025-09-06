@@ -19,3 +19,13 @@ Dynamic dashboards were created featuring interactive charts and visualizations 
 
 ## Selecting the Best Playing 11
 Employed data-driven analysis and informed decision-making to assemble the best playing 11, guided by the insights derived from the dashboard. The selected lineup emphasizes strong batting capabilities with the potential to score over 200 runs, coupled with a disciplined bowling attack designed to restrict the opposition to under 150 runs, ensuring a well-balanced and competitive team composition
+
+## Tools, Software, and Libraries Used
+•	Python Programming Language
+•	Pandas Library for web scraping
+•	Power BI for Data Visualization and Dashboarding
+•	Power Query Editor for Data Transformation
+•	Microsoft Excel for Data Cleaning and Preparation
+•	Jupyter Notebook
+•	Beautiful Soup for Web Data Extraction
+•	Anaconda Environment for Package Management
